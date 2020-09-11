@@ -1,4 +1,4 @@
-name="- Hearts of Oak -"
+name="- Hearts of Oak Reforged MP -"
 replace_path="common/units/names_divisions"
 replace_path="history/countries"
 replace_path="history/states"
