@@ -18,5 +18,5 @@ tags={
 }
 picture="thumbnail.png"
 supported_version="1.9.3"
-path="C:/Users/samue/Documents/Paradox Interactive/Hearts of Iron IV/mod/ProjectOAK"
+path="C:/Users/samue/Documents/Paradox Interactive/Hearts of Iron IV/mod/Hearts of Oak Reforged MP"
 remote_file_id="1682664456"
