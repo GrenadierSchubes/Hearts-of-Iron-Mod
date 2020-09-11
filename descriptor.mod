@@ -14,6 +14,7 @@ tags={
 	"Military"
 	"National Focuses"
 	"Technologies"
+	"Ideologies"
 }
 picture="thumbnail.png"
 supported_version="1.9.3"
