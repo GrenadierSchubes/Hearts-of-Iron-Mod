@@ -1,4 +1,4 @@
-[h1]Hearts of Oak[/h1]
+[h1]Hearts of Oak Reforged[/h1]
 
 [b]Compatible with version 1.9.3 - Husky (La Resistance)
    Compatible with all DLCs[/b]
@@ -47,11 +47,11 @@ Bug reporting is always appreciated!
 [list]
 
 [*] mpu.daemos
- https://steamcommunity.com/sharedfiles/filedetails/?id=1359910020   MPU - Map Counters (M) 
- https://steamcommunity.com/sharedfiles/filedetails/?id=1442807665  MPU Theatre Icons (Less is More)              
+ https://steamcommunity.com/sharedfiles/filedetails/?id=1359910020   MPU - Map Counters (M)
+ https://steamcommunity.com/sharedfiles/filedetails/?id=1442807665  MPU Theatre Icons (Less is More)
 
-[*] Steffen 
-https://steamcommunity.com/sharedfiles/filedetails/?id=699686998 better terrain view 
+[*] Steffen
+https://steamcommunity.com/sharedfiles/filedetails/?id=699686998 better terrain view
 
 [*] 电灯弗里曼
 https://steamcommunity.com/sharedfiles/filedetails/?id=1481327114 Lamp's Eqpt Icons 3 - Unique Support Eqpt Icons
@@ -63,7 +63,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=885410896 Guns Trucks
 [*] Gerrade
 https://steamcommunity.com/sharedfiles/filedetails/?id=1733920492&searchtext=emblem Party Emblem Mod
 
-[*] Lugash 
+[*] Lugash
 https://steamcommunity.com/sharedfiles/filedetails/?id=1674404659  Improved Political Map
 
 [*] Digital Ape
@@ -85,10 +85,10 @@ https://www.reddit.com/user/TheBolshevikJew/ Several Portraits
 [*] Additional Portraits by several authors, full credit linked below
 https://steamcommunity.com/workshop/filedetails/discussion/1773821334/1639788130290201953/ Sensible Portraits
 
-The following people from the MOD coop who have shared their icons in the GFX-sharing chat: 
+The following people from the MOD coop who have shared their icons in the GFX-sharing chat:
 
-grestin | Pax Britannica - focus icons 
-Mapno - focus icons 
+grestin | Pax Britannica - focus icons
+Mapno - focus icons
 Jubs | AOTR - focus icons
 
 Also, a big thank you to the GFX artists who have contributed to assets to the shared repositories that are floating around the HOI4 modding discord.
