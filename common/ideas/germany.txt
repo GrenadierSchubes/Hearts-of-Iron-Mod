@@ -152,13 +152,12 @@ ideas = {
 			
 			picture = great_depression
 
-			research_bonus = { industry = -0.25 }
+			research_bonus = { industry = -0.5 }
 		
 			modifier = {
 
 				production_factory_max_efficiency_factor = -0.075
-				production_factory_efficiency_gain_factor = -0.05
-				industrial_capacity_factory = -0.175
+				industrial_capacity_factory = -0.3
 			}
 		}
 
