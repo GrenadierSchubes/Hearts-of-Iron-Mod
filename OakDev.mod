@@ -1,4 +1,4 @@
-name="- Hearts of Oak -"
+name="Hearts of Oak Reforged MP"
 replace_path="common/units/names_divisions"
 replace_path="history/countries"
 replace_path="history/states"
@@ -14,8 +14,9 @@ tags={
 	"Military"
 	"National Focuses"
 	"Technologies"
+	"Ideologies"
 }
 picture="thumbnail.png"
 supported_version="1.9.3"
-path="C:/Program Files (x86)/Steam/steamapps/workshop/content/394360/1682664456"
-remote_file_id="1682664456"
+path="C:\Users\chick\Documents\Paradox Interactive\Hearts of Iron IV\mod\Hearts-of-Iron-Mod"
+remote_file_id="2226222963"

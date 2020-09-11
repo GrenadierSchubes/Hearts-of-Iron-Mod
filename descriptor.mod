@@ -1,4 +1,4 @@
-name="- Hearts of Oak Reforged MP -"
+name="Hearts of Oak Reforged MP"
 replace_path="common/units/names_divisions"
 replace_path="history/countries"
 replace_path="history/states"
@@ -18,5 +18,4 @@ tags={
 }
 picture="thumbnail.png"
 supported_version="1.9.3"
-path="C:/Users/samue/Documents/Paradox Interactive/Hearts of Iron IV/mod/Hearts of Oak Reforged MP"
 remote_file_id="2226222963"
